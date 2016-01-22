@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Video Player</string>
+    <string name="no_videofile">No Video File</string>
+	<string name="notice">notice</string>
+	<string name="register">Register  New Version 2015-9-24</string>
+	<string name="input">Please input registration code</string>
+	<string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="register_ok">Registered Successfully! Reboot the system please!</string>
+    <string name="register_failure">Registered Unsuccessfully,please input right code! </string>
+    <string name="register_nopassword">can not find password!</string>
+    <string name="register_haveRegs">This code has been registered!</string>
+    <string name="no_video">Can not find SD card or SD card missing content, please insert SD card,  and reboot the device! </string>
+    <string name="find_video">Searching the video,please wait a moment... </string>
+    <string name="install_apk">Find new APK and will install it for you.After install over,restart Android System please. </string>
+</resources>

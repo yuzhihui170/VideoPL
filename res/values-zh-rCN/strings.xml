@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"视频播放器"</string>
+    <string name="no_videofile">没有视频文件</string>
+    <string name="notice">提示</string>
+    <string name="register">注册  新版 2015-9-24</string>
+    <string name="input">请输入注册码</string>
+    <string name="ok">确认</string>
+    <string name="cancel">取消</string>
+    <string name="register_ok">注册成功！</string>
+    <string name="register_failure">注册失败,请重新输入注册码！ </string>
+    <string name="register_nopassword">找不到密码本</string>
+    <string name="register_errorsdcard">请使用指定的SD卡!</string>
+    <string name="register_haveRegs">这个注册码已经使用!</string>
+    <string name="no_video">U盘里面没有视频 </string>
+    <string name="find_video">正在搜索视频,请稍等... </string>
+    <string name="install_apk">发现新版apk,将会为您自动安装.安装完成之后请重新启动! </string>
+</resources>
